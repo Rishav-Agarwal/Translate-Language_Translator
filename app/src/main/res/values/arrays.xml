@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Label ordering must match values -->
+    <array name="pref_lang_options_labels">
+        <item>@string/Dutch</item>
+        <item>@string/English</item>
+        <item>@string/Hindi</item>
+        <item>@string/Russian</item>
+        <item>@string/Spanish</item>
+        <item>@string/Turkish</item>
+    </array>
+
+    <array name="pref_lang_options_values">
+        <item>@string/nl</item>
+        <item>@string/en</item>
+        <item>@string/hi</item>
+        <item>@string/ru</item>
+        <item>@string/es</item>
+        <item>@string/tr</item>
+    </array>
+</resources>

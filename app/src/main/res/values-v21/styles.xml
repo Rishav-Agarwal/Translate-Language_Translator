@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style_translate" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+    </style>
+</resources>
