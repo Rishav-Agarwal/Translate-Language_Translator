@@ -6,32 +6,22 @@
     <string name="copy_no_text">Kopyalanacak tercüme metin yok!</string>
     <string name="couldnt_find_info">Bilgi bulamadı!</string>
     <string name="couldnt_translate">Üzgünüz, metin çevrilemedi!</string>
-    <string name="dialog_exit">Çıkmak istediğine emin misin?</string>
     <string name="dir_no_support">Üzgünüz, bu çeviri yönü desteklenmiyor!</string>
-    <string name="download_pro">Pro Sürümünü İndirin (Reklam Yok)</string>
-    <string name="download_pro_about">> Pro sürümünü indirin (Reklam Yok): https://play.google.com/store/apps/details?id=com.appsbyrishavagarwal.translate_pro</string>
     <string name="error_report">Bazı dahili hata oluştu! Lütfen daha sonra tekrar deneyiniz. Lütfen bu kodu belirterek posta ile rapor verin:</string>
-    <string name="exit">çıkış</string>
     <string name="internal_error">Bir iç hata oluştu! Lütfen daha sonra tekrar deneyin! Uygunsuzluk pişman oldu!</string>
     <string name="internet_error">Bir hata oluştu! Lütfen internet bağlantınızı kontrol edin veya daha sonra tekrar deneyin.</string>
     <string name="invalid_input">Lütfen geçerli bir girdi girin!</string>
-    <string name="like_follow_facebook">> Facebook sayfamızı takip edin ve takip edin: fb.me/AppsByRishavAgarwal</string>
-    <string name="mail_at">> Posta adresi: RishavAgarwal7997@gmail.com</string>
-    <string name="more_apps">Daha fazla uygulama</string>
+    <string name="like_follow_facebook">• Facebook sayfamızı takip edin ve takip edin: fb.me/AppsByRishavAgarwal</string>
+    <string name="mail_at">• Posta adresi: RishavAgarwal7997@gmail.com</string>
     <string name="no">Yok hayır</string>
     <string name="not_supported">Hata! Cihaz, konuşma metnini desteklemez!</string>
     <string name="note_about">* Not: Bu uygulamanın düzgün çalışabilmesi için internet bağlantısı gereklidir! Ses girişi veya çıkışı gibi bazı özellikler internet bağlantısı olmadan çalışmayabilir.</string>
-    <string name="ok">tamam</string>
-    <string name="rate">5 yıldızlar</string>
-    <string name="share">Uygulamayı Paylaş</string>
-    <string name="share_string">Hey, Rishav Agarwal\'ın yaptığı bu harika Çeviriyi Yapanlar\'a bir göz atın</string>
     <string name="too_big">Üzgünüz, metin çevrilemeyecek kadar büyük!</string>
-    <string name="translate_any_lang">> Herhangi bir dilden tek bir tıklamayla herhangi bir dile çevirin!</string>
-    <string name="translator_by_me">Dil Çevirmen Pro Made by RISHAV AGARWAL</string>
+    <string name="translate_any_lang">• Herhangi bir dilden tek bir tıklamayla herhangi bir dile çevirin!</string>
+    <string name="translator_by_me">Çevirmen - Rishav Agarwal</string>
     <string name="type_input">Metni yazın veya yapıştırın</string>
-    <string name="version">Sürüm 2.0.1</string>
+    <string name="version">Sürüm 2.0.2</string>
     <string name="yes">Yes</string>
-    <string name="website_">> Web sitesi: RishavAgarwal7997.wixsite.com/AppsByRishavAgarwal</string>
     <string name="auto_detect">Otomatik algılama</string>
     <string name="Afrikaans">Afrikaans</string>
     <string name="Albanian">Arnavut</string>
@@ -140,4 +130,5 @@
     <string name="sign_in">oturum aç</string>
     <string name="sign_out">oturumu Kapat</string>
     <string name="view_synced_translations">Senkronize çevirileri görüntüle</string>
+    <string name="my_name">Rishav Agarwal</string>
 </resources>

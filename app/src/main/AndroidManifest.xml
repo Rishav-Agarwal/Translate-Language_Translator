@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.appsbyrishavagarwal.translate">
+    package="me.rishavagarwal.translate">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -13,12 +13,12 @@
         android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/style_translate">
 
         <activity
-            android:name=".Welcome"
+            android:name="me.rishavagarwal.translate.Welcome"
             android:screenOrientation="portrait"
-            android:theme="@style/style_welcome">
+            android:theme="@style/style_translate">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -34,21 +34,21 @@
         </activity>
 
         <activity
-            android:name=".SettingsActivity"
+            android:name="me.rishavagarwal.translate.SettingsActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/settings"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="me.rishavagarwal.translate.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/style_translate" />
 
         <activity
-            android:name=".MainActivity"
+            android:name="me.rishavagarwal.translate.MainActivity"
             android:hardwareAccelerated="true"
             android:screenOrientation="portrait"
             android:theme="@style/style_translate"
             android:windowSoftInputMode="adjustPan" />
 
-        <activity android:name=".ZoomedText" />
+        <activity android:name="me.rishavagarwal.translate.ZoomedText" />
 
     </application>
 

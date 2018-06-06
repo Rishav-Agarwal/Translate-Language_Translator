@@ -2,21 +2,12 @@
 <resources>
     <string name="app_name">Переведите</string>
     <string name="about">Около</string>
-    <string name="download_pro">Загрузить версию Pro (без рекламы)</string>
-    <string name="download_pro_about">> Скачать про версию (без рекламы) здесь: https://play.google.com/store/apps/details?id=com.appsbyrishavagarwal.translate_pro</string>
-    <string name="exit">Выход</string>
-    <string name="like_follow_facebook">> Как и следуйте моей странице facebook: fb.me/AppsByRishavAgarwal</string>
-    <string name="mail_at">> Письмо в: RishavAgarwal7997@gmail.com</string>
-    <string name="more_apps">Больше приложений</string>
+    <string name="like_follow_facebook">• Как и следуйте моей странице facebook: fb.me/AppsByRishavAgarwal</string>
+    <string name="mail_at">• Письмо в: RishavAgarwal7997@gmail.com</string>
     <string name="note_about">* Примечание: Для правильного функционирования этого приложения требуется подключение к Интернету! Некоторые функции, такие как голосовой ввод или вывод, могут не работать без подключения к Интернету.</string>
-    <string name="ok">ОК</string>
-    <string name="rate">Оценить 5 звезд</string>
-    <string name="share">Поделиться приложением</string>
-    <string name="translate_any_lang">> Перевести с любого языка на любой язык одним щелчком!</string>
-    <string name="translator_by_me">Переводчик языка Pro Сделано RISHAV AGARWAL</string>
+    <string name="translate_any_lang">• Перевести с любого языка на любой язык одним щелчком!</string>
     <string name="type_input">Введите или вставьте текст</string>
-    <string name="version">Версия 2.0.1</string>
-    <string name="website_">> Веб-сайт: RishavAgarwal7997.wixsite.com/AppsByRishavAgarwal</string>
+    <string name="version">Версия 2.0.2</string>
     <string name="internal_error">Возникла внутренняя ошибка! \n Пожалуйста, повторите попытку позже! \n Неудобство вызывает сожаление!</string>
     <string name="not_supported">К сожалению! Устройство не поддерживает передачу речи в текст!</string>
     <string name="internet_error">Произошла ошибка! \n Пожалуйста, проверьте подключение к Интернету или повторите попытку позже.</string>
@@ -24,8 +15,6 @@
     <string name="couldnt_translate">Извините, текст не может быть переведен!</string>
     <string name="dir_no_support">Извините, это направление перевода не поддерживается!</string>
     <string name="error_report">Произошла какая-то внутренняя ошибка! Повторите попытку позже. \n Пожалуйста, отправьте сообщение, указав этот код:</string>
-    <string name="share_string">Эй, проверьте этот удивительный переводчик, сделанный Ришавом Агарвалем</string>
-    <string name="dialog_exit">Вы уверены, что хотите выйти?</string>
     <string name="yes">да</string>
     <string name="no">нет</string>
     <string name="invalid_input">Введите действительный ввод!</string>
@@ -140,4 +129,6 @@
     <string name="sign_in">войти в систему</string>
     <string name="sign_out">выход</string>
     <string name="view_synced_translations">Просмотр синхронизированных переводов</string>
+    <string name="my_name">Rishav Agarwal</string>
+    <string name="translator_by_me">Переводчик - Rishav Agarwal</string>
 </resources>

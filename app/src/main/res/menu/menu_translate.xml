@@ -3,30 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/menu_share"
-        android:orderInCategory="1"
-        android:title="@string/share"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/menu_rate"
-        android:orderInCategory="2"
-        android:title="@string/rate"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/menu_more_apps"
-        android:orderInCategory="3"
-        android:title="@string/more_apps"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/menu_pro"
-        android:orderInCategory="4"
-        android:title="@string/download_pro"
-        app:showAsAction="never" />
-
-    <item
         android:id="@+id/menu_about"
         android:orderInCategory="5"
         android:title="@string/about"

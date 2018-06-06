@@ -6,31 +6,21 @@
     <string name="copy_no_text">Geen vertaalde tekst die moet worden gekopieerd!</string>
     <string name="couldnt_find_info">Kon geen informatie vinden!</string>
     <string name="couldnt_translate">Sorry, de tekst kan niet vertaald worden!</string>
-    <string name="dialog_exit">Weet u zeker dat u wilt afsluiten?</string>
     <string name="dir_no_support">Sorry, deze vertaalrichting wordt niet ondersteund!</string>
-    <string name="download_pro">Proversie downloaden (geen advertenties)</string>
-    <string name="download_pro_about">> Download de pro-versie (geen advertenties) hier: https://play.google.com/store/apps/details?id=com.appsbyrishavagarwal.translate_pro</string>
     <string name="error_report">Er is een interne fout opgetreden! Probeer het later nog eens. \n Vermeld bij het verzenden van mail, met vermelding van deze code:</string>
-    <string name="exit">Uitgang</string>
     <string name="internal_error">Er is een interne fout opgetreden! \n Probeer het later nog eens! \n Ongeluk is spijtig!</string>
     <string name="internet_error">Er is een fout opgetreden! \n Kontroleer uw internetverbinding of probeer het later nogmaals.</string>
     <string name="invalid_input">Vul alstublieft een geldige invoer in!</string>
-    <string name="like_follow_facebook">> Vind en volg mijn facebook pagina: fb.me/AppsByRishavAgarwal</string>
-    <string name="mail_at">> Mail naar: RishavAgarwal7997@gmail.com</string>
-    <string name="more_apps">Meer apps</string>
+    <string name="like_follow_facebook">• Vind en volg mijn facebook pagina: fb.me/AppsByRishavAgarwal</string>
+    <string name="mail_at">• Mail naar: RishavAgarwal7997@gmail.com</string>
     <string name="no">Nee</string>
     <string name="not_supported">Oops! U apparaat ondersteunt geen speech-to-text!</string>
     <string name="note_about">* Opmerking: een internetverbinding is nodig om deze app goed te kunnen functioneren! Sommige functies zoals voice input of output werken mogelijk niet zonder internet.</string>
-    <string name="ok">OK</string>
-    <string name="rate">Beoordeel 5 sterren</string>
-    <string name="share">Deel app</string>
-    <string name="share_string">Hallo, bekijk deze geweldige taal vertaler gemaakt door Rishav Agarwal</string>
     <string name="too_big">Sorry, de tekst is te groot om te vertaald!</string>
-    <string name="translate_any_lang">> Vertalen van elke taal naar een taal met een klik!</string>
-    <string name="translator_by_me">Language Translator Pro Gemaakt door RISHAV AGARWAL</string>
+    <string name="translate_any_lang">• Vertalen van elke taal naar een taal met een klik!</string>
+    <string name="translator_by_me">Vertaler - Rishav Agarwal</string>
     <string name="type_input">Typ of plak wat tekst</string>
-    <string name="version">Versie 2.0.1</string>
-    <string name="website_">> Website: RishavAgarwal7997.wixsite.com/AppsByRishavAgarwal</string>
+    <string name="version">Versie 2.0.2</string>
     <string name="yes">Ja</string>
     <string name="auto_detect">Automatische detectie</string>
     <string name="Afrikaans">Afrikaans</string>
@@ -140,4 +130,5 @@
     <string name="sign_in">Aanmelden</string>
     <string name="sign_out">Afmelden</string>
     <string name="view_synced_translations">Bekijk gesynchroniseerde vertalingen</string>
+    <string name="my_name">Rishav Agarwal</string>
 </resources>

@@ -6,31 +6,20 @@
     <string name="copy_no_text">¡Ningún texto traducido a ser copiado!</string>
     <string name="couldnt_find_info">No se pudo encontrar información!</string>
     <string name="couldnt_translate">Lo sentimos, el texto no se pudo traducir!</string>
-    <string name="dialog_exit">¿Seguro que quieres salir?</string>
     <string name="dir_no_support">Lo sentimos, esta dirección de traducción no es compatible!</string>
-    <string name="download_pro">Descargar la versión Pro (sin anuncios)</string>
-    <string name="download_pro_about">> Descargue la versión pro (sin anuncios) aquí: https://play.google.com/store/apps/details?id=com.appsbyrishavagarwal.translate_pro</string>
     <string name="error_report">¡Se ha producido un error interno! Por favor, inténtelo de nuevo más tarde. \n Por favor informe enviando correo, especificando este código:</string>
-    <string name="exit">Salida</string>
     <string name="internal_error">¡Se ha producido un error interno! \n ¡Vuelva a intentarlo más tarde! \n ¡Se lamenta el inconveniente!</string>
     <string name="internet_error">Se ha producido un error. \n Por favor, compruebe su conexión a Internet o vuelva a intentarlo más tarde.</string>
     <string name="invalid_input">Ingrese una entrada válida!</string>
-    <string name="like_follow_facebook">> Me gusta y sigue mi página de facebook : fb.me/AppsByRishavAgarwal</string>
-    <string name="mail_at">> Correo en: RishavAgarwal7997@gmail.com</string>
-    <string name="more_apps">Más aplicaciones</string>
+    <string name="like_follow_facebook">• Me gusta y sigue mi página de facebook : fb.me/AppsByRishavAgarwal</string>
+    <string name="mail_at">• Correo en: RishavAgarwal7997@gmail.com</string>
     <string name="no">No</string>
     <string name="not_supported">¡Vaya! ¡Tu dispositivo no soporta la conversación de voz a texto!</string>
     <string name="note_about">* Nota: ¡Es necesaria una conexión a Internet para que esta aplicación funcione correctamente! Algunas características como entrada o salida de voz pueden no funcionar sin conectividad a Internet.</string>
-    <string name="ok">DE ACUERDO</string>
-    <string name="rate">Puntuar 5 estrellas</string>
-    <string name="share">Compartir aplicación</string>
-    <string name="share_string">Hey, echa un vistazo a este impresionante Traductor de idiomas hecho por Rishav Agarwal</string>
     <string name="too_big">Lo sentimos, el texto es demasiado grande para ser traducido!</string>
-    <string name="translate_any_lang">> ¡Traduce de cualquier idioma a cualquier idioma con sólo un clic!</string>
-    <string name="translator_by_me">Traductor de idiomas Pro Hecho por RISHAV AGARWAL</string>
+    <string name="translate_any_lang">• ¡Traduce de cualquier idioma a cualquier idioma con sólo un clic!</string>
     <string name="type_input">Escribe o pega un texto</string>
-    <string name="version">Versión 2.0.1</string>
-    <string name="website_">> Sitio web: RishavAgarwal7997.wixsite.com/AppsByRishavAgarwal</string>
+    <string name="version">Versión 2.0.2</string>
     <string name="yes">Sí</string>
     <string name="auto_detect">Detección automática</string>
     <string name="Afrikaans">africaans</string>
@@ -140,4 +129,6 @@
     <string name="sign_in">Registrarse</string>
     <string name="sign_out">desconectar</string>
     <string name="view_synced_translations">Ver traducciones sincronizadas</string>
+    <string name="my_name">Rishav Agarwal</string>
+    <string name="translator_by_me">Traductor - Rishav Agarwal</string>
 </resources>

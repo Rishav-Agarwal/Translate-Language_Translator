@@ -38,16 +38,14 @@
 
     </LinearLayout>
 
-    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
-        android:id="@+id/ad_bookmark_banner"
-        android:layout_width="wrap_content"
-        android:layout_gravity="center"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
-        android:layout_marginTop="5dp"
+    <LinearLayout
+        android:id="@+id/ad_layout"
         android:layout_weight="0"
-        android:visibility="gone"
-        ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-2751644825615773/8032382704" />
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </LinearLayout>
 
 </LinearLayout>

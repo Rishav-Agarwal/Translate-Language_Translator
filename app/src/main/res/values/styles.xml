@@ -9,10 +9,6 @@
         <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
     </style>
 
-    <style name="style_welcome" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
-        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
-    </style>
-
     <style name="style_translate" parent="AppTheme">
         <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
     </style>

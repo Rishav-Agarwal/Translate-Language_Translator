@@ -3,24 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.appsbyrishavagarwal.translate.Welcome">
-
-    <ImageView
-        android:id="@+id/iv_multi_lang"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:contentDescription="@string/app_name"
-        android:scaleType="fitXY"
-        android:src="@drawable/multi_lang" />
+    tools:context="me.rishavagarwal.translate.Welcome">
 
     <LinearLayout
         android:id="@+id/ll_translate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"
-        android:orientation="vertical"
-        android:visibility="invisible">
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
 
         <ImageView
             android:layout_width="wrap_content"
@@ -35,41 +25,27 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:fontFamily="serif"
-            android:maxLines="1"
             android:padding="5dp"
-            android:shadowColor="#212121"
-            android:shadowDx="5"
-            android:shadowDy="2"
-            android:shadowRadius="5"
             android:text="@string/app_name"
             android:textColor="#e65100"
             android:textSize="25sp"
-            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:fontFamily="serif"
+            android:layout_marginTop="24dp"
+            android:text="@string/my_name"
+            android:textColor="#BDBDBD"
+            android:textSize="24sp"
             android:typeface="serif" />
 
     </LinearLayout>
-
-    <TextView
-        android:id="@+id/iv_my_name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="50dp"
-        android:height="50dp"
-        android:fontFamily="serif"
-        android:gravity="center_horizontal"
-        android:maxLines="1"
-        android:padding="5dp"
-        android:shadowColor="#212121"
-        android:shadowDx="5"
-        android:shadowDy="2"
-        android:shadowRadius="5"
-        android:text="@string/my_name"
-        android:textColor="#e65100"
-        android:textSize="25sp"
-        android:textStyle="bold"
-        android:typeface="serif" />
 
 </RelativeLayout>

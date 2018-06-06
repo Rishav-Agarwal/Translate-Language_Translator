@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/about_back"
+    android:background="@android:color/white"
     android:clickable="true"
     android:foreground="?android:attr/selectableItemBackground"
     android:orientation="vertical"
@@ -13,10 +13,11 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:layout_weight="0"
-        android:background="@drawable/about_back"
+        android:background="@android:color/white"
         android:gravity="center_horizontal"
         android:padding="5dp"
         android:text="@string/translator_by_me"
+        android:textStyle="bold"
         android:textColor="#000000"
         android:textSize="22sp" />
 
@@ -36,7 +37,7 @@
                 android:layout_marginBottom="10dp"
                 android:gravity="clip_horizontal"
                 android:text="@string/translate_any_lang"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:textSize="18sp" />
 
             <TextView
@@ -46,21 +47,9 @@
                 android:gravity="start"
                 android:linksClickable="true"
                 android:text="@string/like_follow_facebook"
-                android:textColor="#ffffff"
-                android:textColorLink="#ffdddf"
-                android:textSize="19sp" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:autoLink="all"
-                android:gravity="start"
-                android:linksClickable="true"
-                android:text="@string/download_pro_about"
-                android:textColor="#ffffff"
-                android:textColorLink="#ffdddf"
-                android:textSize="19sp" />
+                android:textColor="#000000"
+                android:textColorLink="@android:color/holo_blue_bright"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -70,9 +59,9 @@
                 android:gravity="start"
                 android:linksClickable="true"
                 android:text="@string/mail_at"
-                android:textColor="#ffffff"
-                android:textColorLink="#ffdddf"
-                android:textSize="19sp" />
+                android:textColor="#000000"
+                android:textColorLink="@android:color/holo_blue_bright"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -81,10 +70,10 @@
                 android:autoLink="all"
                 android:gravity="start"
                 android:linksClickable="true"
-                android:text="@string/website_"
-                android:textColor="#ffffff"
-                android:textColorLink="#ffdddf"
-                android:textSize="19sp" />
+                android:text="@string/github_link"
+                android:textColor="#000000"
+                android:textColorLink="@android:color/holo_blue_bright"
+                android:textSize="18sp" />
 
         </LinearLayout>
 
@@ -106,7 +95,7 @@
         android:layout_weight="0"
         android:gravity="end"
         android:text="@string/version"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
         android:textSize="16sp" />
 
     <TextView
@@ -117,18 +106,6 @@
         android:layout_weight="0"
         android:gravity="end"
         android:text="@string/powered_by"
-        android:textColor="#ffffff"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="16sp" />
-
-    <Button
-        android:id="@+id/but_about_ok"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0"
-        android:background="@drawable/about_back"
-        android:clickable="true"
-        android:foreground="?android:attr/selectableItemBackground"
-        android:text="@string/ok"
-        android:textSize="20sp"
-        android:textStyle="bold" />
 </LinearLayout>

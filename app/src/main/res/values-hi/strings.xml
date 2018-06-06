@@ -2,21 +2,13 @@
 <resources>
     <string name="app_name">अनुवाद करें</string>
     <string name="about">बारे में</string>
-    <string name="download_pro">प्रो संस्करण डाउनलोड करें (कोई विज्ञापन नहीं)</string>
-    <string name="download_pro_about">> प्रो संस्करण डाउनलोड करें (यहां कोई विज्ञापन नहीं) : https://play.google.com/store/apps/details?id=com.appsbyrishavagarwal.translate_pro</string>
-    <string name="exit">बंद करे</string>
-    <string name="like_follow_facebook">> मेरे फेसबुक पेज को लिखे और फॉलो करें : fb.me/AppsByRishavAgarwal</string>
-    <string name="mail_at">> ईमेल आईडी : RishavAgarwal7997@gmail.com</string>
-    <string name="more_apps">अधिक ऐप्स देखें</string>
+    <string name="like_follow_facebook">• मेरे फेसबुक पेज को लिखे और फॉलो करें : fb.me/AppsByRishavAgarwal</string>
+    <string name="mail_at">• ईमेल आईडी : RishavAgarwal7997@gmail.com</string>
     <string name="note_about">* नोट: इस ऐप को ठीक से काम करने के लिए एक इंटरनेट कनेक्शन की आवश्यकता है! आवाज इनपुट या आउटपुट जैसी कुछ सुविधाएं इंटरनेट कनेक्टिविटी के बिना काम नहीं कर सकती हैं।</string>
-    <string name="ok">ठीक</string>
-    <string name="rate">5 स्टार्स दें</string>
-    <string name="share">ऐप साझा करें</string>
-    <string name="translate_any_lang">> किसी भी भाषा से किसी भी भाषा में केवल एक क्लिक के साथ अनुवाद करें!</string>
-    <string name="translator_by_me">भाषा अनुवादक प्रो\nरीषव अग्रवाल द्वारा निर्मित</string>
+    <string name="translate_any_lang">• किसी भी भाषा से किसी भी भाषा में केवल एक क्लिक के साथ अनुवाद करें!</string>
+    <string name="translator_by_me">अनुवादक - Rishav Agarwal</string>
     <string name="type_input">कुछ टेक्स्ट टाइप या पेस्ट करें</string>
-    <string name="version">संस्करण 2.0.1</string>
-    <string name="website_">> वेबसाइट : RishavAgarwal7997.wixsite.com/AppsByRishavAgarwal</string>
+    <string name="version">संस्करण 2.0.2</string>
     <string name="internal_error">एक आंतरिक त्रुटि हुई! \n बाद में पुन: प्रयास करें! \n असुविधा के लिए खेद है!</string>
     <string name="not_supported">ऊप्स! आप उपकरण भाषण से पाठ का समर्थन नहीं करते हैं!</string>
     <string name="internet_error">एक त्रुटि हुई! \n कृपया अपना इंटरनेट कनेक्शन जांचें या बाद में फिर से प्रयास करें।</string>
@@ -24,8 +16,6 @@
     <string name="couldnt_translate">क्षमा करें, पाठ का अनुवाद नहीं किया जा सका!</string>
     <string name="dir_no_support">क्षमा करें, यह अनुवाद दिशा समर्थित नहीं है!</string>
     <string name="error_report">कुछ आंतरिक त्रुटि हुई! कृपया बाद में फिर से प्रयास करें। \n कृपया इस कोड को निर्दिष्ट करते हुए, मेल भेजकर रिपोर्ट करें:</string>
-    <string name="share_string">हे, ऋषव अग्रवाल द्वारा बनाई गई इस भयानक भाषा अनुवादक को देखें</string>
-    <string name="dialog_exit">क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?</string>
     <string name="yes">हाँ</string>
     <string name="no">नहीं</string>
     <string name="invalid_input">कृपया एक वैध इनपुट दर्ज करें!</string>
@@ -140,4 +130,5 @@
     <string name="sign_in">साइन इन करें</string>
     <string name="sign_out">साइन आउट</string>
     <string name="view_synced_translations">समन्वयित अनुवाद देखें</string>
+    <string name="my_name">Rishav Agarwal</string>
 </resources>
