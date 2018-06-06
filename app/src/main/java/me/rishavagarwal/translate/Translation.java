@@ -1,5 +1,7 @@
 package me.rishavagarwal.translate;
 
+import com.google.firebase.database.PropertyName;
+
 public class Translation {
 
     private int id;
@@ -29,50 +31,62 @@ public class Translation {
         this.date = date;
     }
 
+    @PropertyName("id")
     public int getId() {
         return id;
     }
 
+    @PropertyName("from_lang")
     public String getFrom_lang() {
         return from_lang;
     }
 
+    @PropertyName("to_lang")
     public String getTo_lang() {
         return to_lang;
     }
 
+    @PropertyName("from_text")
     public String getFrom_text() {
         return from_text;
     }
 
+    @PropertyName("to_text")
     public String getTo_text() {
         return to_text;
     }
 
+    @PropertyName("date")
     public String getDate() {
         return date;
     }
 
+    @PropertyName("id")
     public void setId(int id) {
         this.id = id;
     }
 
+    @PropertyName("from_lang")
     public void setFrom_lang(String from_lang) {
         this.from_lang = from_lang;
     }
 
+    @PropertyName("to_lang")
     public void setTo_lang(String to_lang) {
         this.to_lang = to_lang;
     }
 
+    @PropertyName("from_text")
     public void setFrom_text(String from_text) {
         this.from_text = from_text;
     }
 
+    @PropertyName("to_text")
     public void setTo_text(String to_text) {
         this.to_text = to_text;
     }
 
+    @PropertyName("date")
     public void setDate(String date) {
         this.date = date;
     }
