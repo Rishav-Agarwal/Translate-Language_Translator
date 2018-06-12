@@ -23,14 +23,6 @@
           }
         },
         {
-          "client_id": "963252976155-6hfohn0ni9amljmi5eo5d49spfubfab0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "me.rishavagarwal.translate",
-            "certificate_hash": "1eb19e9a4445e0bf02506cf79a331b33440bb1f3"
-          }
-        },
-        {
           "client_id": "963252976155-3ma1o75th8lp8n51qq2t6bhbclkhh8ga.apps.googleusercontent.com",
           "client_type": 3
         },

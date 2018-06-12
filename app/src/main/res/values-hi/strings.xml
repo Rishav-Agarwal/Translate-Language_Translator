@@ -8,7 +8,7 @@
     <string name="translate_any_lang">• किसी भी भाषा से किसी भी भाषा में केवल एक क्लिक के साथ अनुवाद करें!</string>
     <string name="translator_by_me">अनुवादक - Rishav Agarwal</string>
     <string name="type_input">कुछ टेक्स्ट टाइप या पेस्ट करें</string>
-    <string name="version">संस्करण 2.0.2</string>
+    <string name="version">संस्करण 2.0.4</string>
     <string name="internal_error">एक आंतरिक त्रुटि हुई! \n बाद में पुन: प्रयास करें! \n असुविधा के लिए खेद है!</string>
     <string name="not_supported">ऊप्स! आप उपकरण भाषण से पाठ का समर्थन नहीं करते हैं!</string>
     <string name="internet_error">एक त्रुटि हुई! \n कृपया अपना इंटरनेट कनेक्शन जांचें या बाद में फिर से प्रयास करें।</string>
