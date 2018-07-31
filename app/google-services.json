@@ -23,8 +23,12 @@
           }
         },
         {
-          "client_id": "963252976155-3ma1o75th8lp8n51qq2t6bhbclkhh8ga.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "963252976155-hpqq80eorrf4bbo2kglg1bubit4ir33u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.rishavagarwal.translate",
+            "certificate_hash": "cbe371cde91e61ce36d4c77e1d383525e5605a88"
+          }
         },
         {
           "client_id": "963252976155-3ma1o75th8lp8n51qq2t6bhbclkhh8ga.apps.googleusercontent.com",
