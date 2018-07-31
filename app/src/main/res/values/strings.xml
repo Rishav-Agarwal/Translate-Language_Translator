@@ -14,7 +14,7 @@
     <string name="like_follow_facebook">\u2022 Like and follow my facebook page: fb.me/AppsByRishavAgarwal</string>
     <string name="mail_at">\u2022 Mail at: RishavAgarwal7997@gmail.com</string>
     <string name="github_link" translatable="false">\u2022 Github: https://github.com/Rishav-Agarwal</string>
-    <string name="version">version 2.0.4</string>
+    <string name="version">version 2.0.5</string>
     <string name="powered_by" translatable="false">Powered by Yandex.Translate</string>
     <string name="note_about">*Note: An internet connection is required for this app to function properly! Some features like voice input or output may not work without internet connectivity.</string>
     <string name="internal_error">An internal error occurred! \n Please try again later! \n Inconvenience is regretted!</string>
